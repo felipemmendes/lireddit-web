@@ -1,4 +1,4 @@
-# LiReddit API
+# LiReddit WEB
 
 This is the code for LiReddit Web. To see the code for LiReddit API, [click here ](https://github.com/felipemmendes/lireddit-api).
 
